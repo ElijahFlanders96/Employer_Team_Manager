@@ -11,6 +11,8 @@
 ## Description
 This program allows employers to quickly generate a display of all of their employees, along with relevant employee info.
 
+<img src="meet-the-cats.png">
+
 ## Installation Instructions
 Clone this repository into bash or terminal and change into the Employer_Team_Manager directory. From there, run node app in the command line.
 
